@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "368004415090",
+    "project_id": "visign-gallery",
+    "storage_bucket": "visign-gallery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368004415090:android:83c58fe106a402e532cceb",
+        "android_client_info": {
+          "package_name": "com.abstraction.fulll_galleria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3b2ptD40NwUaD_6CpFmSXH_uYqNsZlXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368004415090:android:24a84096b97c0e9232cceb",
+        "android_client_info": {
+          "package_name": "com.example.visign_gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3b2ptD40NwUaD_6CpFmSXH_uYqNsZlXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

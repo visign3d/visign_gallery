@@ -1,0 +1,3 @@
+abstract class AService {
+  start();
+}
