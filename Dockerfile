@@ -6,4 +6,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD["serve","/build/web/index.html"}
+CMD["serve","/build/web"}
