@@ -1,9 +1,7 @@
-FROM node:lts-alpine
+FROM nginx:stable-alpine
 
-RUN npm -y -g install serve
-WORKDIR /app/
-COPY . .
 
-EXPOSE 3000
+COPY /build/web /usr/share/nginx/html
 
-CMD["serve","/build/web"}
+EXPOSE 80
+
