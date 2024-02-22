@@ -5,4 +5,5 @@ WORKDIR /app/
 COPY . .
 
 EXPOSE 3000
-CMD["serve","build/web"}
+ENTRYPOINT ['/build/web/index.html']
+CMD["serve","run"}
